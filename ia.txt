@@ -10,3 +10,18 @@ gerente
 desde el panel.
 Usuarios creados:
  grupos, usuarios vendedor y supervisor , montos formateados y registroscargados.
+
+
+
+ ACLARACION DE IA :
+
+ USE EL COPILOT CHAT PARA AYUDARME A QUE EL PRECIO DE LOS EQUIPOS SE MULTIPLICARA POR LOS DIAS 
+
+ PROMT:
+
+ coloca que en arriendo de equipo se calcule automaticamente por dias , osea si el equipo tiene 
+ un valor que ese valor sea multiplicado por los dias que se arrienda o se coloque por ejemplo 
+ valor del equipo 10 mil y yo coloque 3 dias en el calendario entonces automaticamente serai 30 mil
+
+
+ SOLO FUE ESO
