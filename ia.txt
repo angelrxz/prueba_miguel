@@ -1,0 +1,12 @@
+
+## esto solo es para tener anotado lo que llevara cada commit no es aclaracion de ia ##
+
+Panel instalado:
+ proyecto y app creados, panel accesible y superusuario 
+gerente
+ creado.
+ Datos creados:
+  Equipo y Arriendo relacionadas, creadas en la base de datos y administrables
+desde el panel.
+Usuarios creados:
+ grupos, usuarios vendedor y supervisor , montos formateados y registroscargados.
